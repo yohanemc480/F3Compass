@@ -1,0 +1,1 @@
+        { "predicate": { "custom_model_data" : 1, "angle": 角度 }, "model": "item/f3_compass/モデル番号" }
